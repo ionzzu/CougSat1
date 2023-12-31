@@ -9,9 +9,9 @@ A CubeSat is a miniature satellite intended for conducting scientific investigat
 ## Description
 
 There are three sections in this project:
-1. [Attitude Determination and Control System (ADCS)](github.com/ionzzu/CougSat1/tree/main/ADCS): orients the satellite to a desirable position
-2. [Engineering Drawings](github.com/ionzzu/CougSat1/tree/main/Engineering-Drawings): drawings for existing CubeSat parts drawn to GD&T Drafting Standard
-3. [Helmholtz Coil Structure](github.com/ionzzu/CougSat1/tree/main/Helmholtz-Coil-Structure): a testing structure to produce a 3-dimensional region of uniform magnetic field
+1. [Attitude Determination and Control System (ADCS)](ADCS): orients the satellite to a desirable position
+2. [Engineering Drawings](Engineering%20Drawings): drawings for existing CubeSat parts drawn to GD&T Drafting Standard
+3. [Helmholtz Coil Structure](Helmholtz%20Coil%20Structure): a testing structure to produce a 3-dimensional region of uniform magnetic field
 
 ## Installation
 
