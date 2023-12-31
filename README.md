@@ -1,10 +1,10 @@
 # CougSat1
 
-This project covers my contributions the Washington State University Cougs in Space Club (2018-2020) and is part of NASA's [CubeSat Launch Initiative](nasa.gov/kennedy/launch-services-program/cubesat-launch-initiative).
+This project covers my contributions the Washington State University Cougs in Space Club (2018-2020) and is part of NASA's [CubeSat Launch Initiative](https://nasa.gov/kennedy/launch-services-program/cubesat-launch-initiative).
 A CubeSat is a miniature satellite intended for conducting scientific investigations in space.
 
 ## Author
-- [Jonathan Cochran](github.com/ionzzu)
+- [Jonathan Cochran](https://github.com/ionzzu)
 
 ## Description
 
@@ -19,4 +19,4 @@ There are three sections in this project:
 
 ## Acknowledgment
 
-Thank you to [Cougs in Space](cis.vcea.wsu.edu) and cooperation with NASA!
+Thank you to [Cougs in Space](https://cis.vcea.wsu.edu) and cooperation with NASA!
