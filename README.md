@@ -12,9 +12,9 @@ A CubeSat is a miniature satellite intended for conducting scientific investigat
 ## Description
 
 There are three sections in this project:
-1. [Attitude Determination](attitude_estimation): algorithm to estimate attitude of the satellite
-2. [Engineering Drawings](engineering_drawings): drawings for existing CubeSat parts drawn to GD&T Drafting Standard
-3. [Helmholtz Coil Structure](helmholtz_coil_structure): a testing structure to produce a 3-dimensional region of uniform magnetic field
+1. [Attitude Determination](attitude_estimation): algorithm to estimate attitude of the satellite ([Readme](docs/attitudeDetermination.md))
+2. [Engineering Drawings](engineering_drawings): drawings for existing CubeSat parts drawn to GD&T Drafting Standard ([Readme](docs/engDrawings.md))
+3. [Helmholtz Coil Structure](helmholtz_coil_structure): a testing structure to produce a 3-dimensional region of uniform magnetic field ([Readme](docs/helmholtz.md))
 
 An introductory document I wrote for new team members to the ADCS team is included under [docs](docs)
 
