@@ -8,12 +8,33 @@ This section covers the attitude determination and control system (ADCS).
 
 ## Description
 
-- The attitude for the satellite is estimated by using the B-dot algorithm and considering polar orbits
-- This algorithm modifies the frame of reference and adds the rotating matrix functions
-- Over one rotation around the earth, the angular position, velocity, and acceleration of the satellite are determined
-- After these values are known, magnetorquer coils can be induced to adjust the attitude to the desired values
+### Background
+
+- The ADCS orients the satellite to a desirable position
+- Control is gained via three perpendicular magnetorquer coils
+- These generate a magnetic field that interacts with Earth's magnetic field, inducing torque on the satellite
+
+### Goals
+
+- Develop a B-dot algorithm to detumble the satellite after ejection within one orbit
+
+### Methodology
+
+- The control algorithm presented is demonstrated in a simulated environment where the satellite is initially ejected in space
+- All three axis are considered such that a magnetic field can be induced in any plane
+
+#### Algorithm
+
+1. Calculate Earth's magnetic field, secular variation, and local geomagnetic field vector
+2. Translate the magnetic field vector to the satellite (body) frame of reference using direction cosine matrix
+3. Calculate commanded magnetic dipole moment from the translated magnetic field vector
+4. Determine torque required by magnetorquers and current required in each coil axis from the dipole moment
+5. Calculate updated angular acceleration from the torque to produce from magnetorquers
+6. Update current, angular position, angular velocity, and angular acceleration matrices
 
 ## Results
+
+The satellite is detumbled in under a third of a rotation.
 
 ![ang_acc_stacked](../docs/ref/att_determination/ang_acc_stacked.png)
 ![ang_vel_stacked](../docs/ref/att_determination/ang_vel_stacked.png)
