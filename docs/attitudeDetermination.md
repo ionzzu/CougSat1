@@ -31,7 +31,7 @@ This section covers the attitude determination and control system (ADCS).
 
 2. Run bdot_control_algo.m
 
-## Acknowledgment
+## Acknowledgments
 
 - IGRF determined using Drew Compston's [IGRF Model](https://www.mathworks.com/matlabcentral/fileexchange/34388-international-geomagnetic-reference-field-igrf-model)
 - Framework for B-dot algorithm derived from catnip-evergreen's [bdot-algo](https://github.com/catnip-evergreen/bdot-algo)
