@@ -1,6 +1,6 @@
-# Attitude Determination
+# Engineering Drawings
 
-This section covers the engineering drawings completed for part machining.
+This section covers engineering drawings completed for part machining.
 
 ## Author
 
@@ -8,7 +8,7 @@ This section covers the engineering drawings completed for part machining.
 
 ## Description
 
-There are three engineering drawings I completed:
+There are three engineering drawings completed:
 - [CubeSat Structure Assembly](#cubesat-structure-assembly)
 - [Front Plane with Cougar Emblem](#front-plane-with-cougar-emblem)
 - [STR_nY](#str_ny)
@@ -23,7 +23,7 @@ See [CubeSat Structure directory](../engineering_drawings/cubesat_structure)
 
 ## Front Plane with Cougar Emblem
 
-Front plane of the satellite with a cougar emblem etched into it. I added the cougar emblem manually.
+Front plane of the satellite with a cougar emblem etched into it. Cougar emblem added manually.
 
 See [Front Plane directory](../engineering_drawings/front_plane)
 
@@ -31,7 +31,7 @@ See [Front Plane directory](../engineering_drawings/front_plane)
 
 ## STR_nY
 
-A slat insert for the satellite.
+Slat insert for the satellite.
 
 See [STR_nY directory](../engineering_drawings/str_ny)
 
