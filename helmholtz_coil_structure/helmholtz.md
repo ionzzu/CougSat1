@@ -1,0 +1,2 @@
+- A structure designed so that a copper coil can be wrapped in 
+    - Design was created such that the structure could be wholly 3d printed
