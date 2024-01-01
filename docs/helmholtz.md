@@ -21,7 +21,7 @@ A Helmholtz coil is a device to produce a region of uniform magnetic field. It i
 ### Design
 
 - The structure is large enough such that a CubeSat may be maneuvered within it
-- Complexity was minimized by reducing the number of main parts to 5
+- Complexity was minimized by reducing the assembled part types to 5
 - Slats are large enough to be wrapped in 24 AWG wire
 - Coil mounts are designed to nest within each other when disassembled
 - All parts are designed such that they may be 3D printed
