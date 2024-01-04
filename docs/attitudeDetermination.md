@@ -34,7 +34,7 @@ This section covers the attitude determination and control system (ADCS).
 
 ## Results
 
-The satellite is detumbled in under a third of a rotation.
+- Detumbled satellite in under a third of a rotation during simulation
 
 ![ang_acc_stacked](../docs/ref/att_determination/ang_acc_stacked.png)
 ![ang_vel_stacked](../docs/ref/att_determination/ang_vel_stacked.png)
